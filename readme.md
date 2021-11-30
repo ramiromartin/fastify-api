@@ -13,7 +13,7 @@ npm run test
 
 #### REST Client
 
-The file **requestTests.http** can be used to make requests if you are using the [VSCode Rest Client extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+The file **requestTests.http** (src/requestTest.http) can be used to make requests if you are using the [VSCode Rest Client extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 In the file you'll see an example for rio cuarto city as endpoint parameter.
 
