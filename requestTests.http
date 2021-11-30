@@ -1,0 +1,2 @@
+### GET SINGLE CITY
+GET http://localhost:5000/cities/rio cuarto HTTP/1.1
