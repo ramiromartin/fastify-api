@@ -1,4 +1,4 @@
-const { isGreaterThan } = require("../helpers");
+const { isGreaterThan } = require("../utils/helpers");
 
 test("check if temperature is greater than 15", () => {
   expect(isGreaterThan(295)).toBeTruthy();

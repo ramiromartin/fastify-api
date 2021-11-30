@@ -30,7 +30,7 @@ const options = {
 
 fastify.register(fastifyEnv, options);
 
-fastify.register(require("./routes/cities"));
+fastify.register(require("./src/routes/cities"));
 
 const PORT = 5000;
 
